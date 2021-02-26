@@ -1,0 +1,12 @@
+{
+	"name": "DelphiBoss",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/hashload/horse": "^2.0.12",
+		"https://github.com/hashload/jhonson": "^1.1.1"
+	}
+}
